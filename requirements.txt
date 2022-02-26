@@ -1,0 +1,3 @@
+requests
+flask
+git+https://github.com/Stift007/react.py
